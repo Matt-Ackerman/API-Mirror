@@ -8296,10 +8296,145 @@
       },
       "rating": null,
       "crawled": "2018-04-08T23:03:51.022+03:00"
+    },
+    {
+      "thread": {
+        "uuid": "b3e33eb168222022f7298d8584917db050ebf08b",
+        "url": "http://omgili.com/ri/jHIAmI4hxg878_WjJYRCkNYom95LfEs_Hq3dYZVjRLtzJV5wm6Jeqm6KrM2uW9Z.yhlynVo7kTD0YAi3jX6dNXapsJTlU0V1SgP2pONI01Ssh16edQzWFZhzjYm1PapO",
+        "site_full": "www.kfvs12.com",
+        "site": "kfvs12.com",
+        "site_section": "http://www.kfvs12.com/Global/category.asp?C=13530&clienttype=rss",
+        "site_categories": [
+          "media"
+        ],
+        "section_title": "KFVS - National - Headline",
+        "title": "Kimmel apologizes for Melania Trump joke amid Hannity feud",
+        "title_full": "Kimmel apologizes for Melania Trump joke amid Hannity feud",
+        "published": "2018-04-08T22:48:00.000+03:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "spam_score": 0.0,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 99995,
+        "social": {
+          "facebook": {
+            "likes": 0,
+            "comments": 0,
+            "shares": 0
+          },
+          "gplus": {
+            "shares": 0
+          },
+          "pinterest": {
+            "shares": 0
+          },
+          "linkedin": {
+            "shares": 0
+          },
+          "stumbledupon": {
+            "shares": 0
+          },
+          "vk": {
+            "shares": 0
+          }
+        }
+      },
+      "uuid": "b3e33eb168222022f7298d8584917db050ebf08b",
+      "url": "http://omgili.com/ri/jHIAmI4hxg878_WjJYRCkNYom95LfEs_Hq3dYZVjRLtzJV5wm6Jeqm6KrM2uW9Z.yhlynVo7kTD0YAi3jX6dNXapsJTlU0V1SgP2pONI01Ssh16edQzWFZhzjYm1PapO",
+      "ord_in_thread": 0,
+      "author": "",
+      "published": "2018-04-08T22:48:00.000+03:00",
+      "title": "Kimmel apologizes for Melania Trump joke amid Hannity feud",
+      "text": "Kimmel apologizes for Melania Trump joke amid Hannity feud 2018-04-08T19:48:22Z 2018-04-08T21:09:26Z (Photo by Chris Pizzello/Invision/AP, File). FILE - In this June 16, 2017, file photo, Jimmy Kimmel attends the 30th annual Scleroderma Foundation Benefit at the Beverly Wilshire hotel in Beverly Hills, Calif. Kimmel has apologized for a joke about Mel... \nNEW YORK (AP) - Late-night comic Jimmy Kimmel has apologized for a \"silly\" joke about first lady Melania Trump's accent and moved to deescalate a feud with Fox News host Sean Hannity. \nKimmel said in a Twitter post made Sunday that his exchanges with Hannity were fun but he didn't want to add to the \"vitriol\" of their spat, which included Hannity calling Kimmel a \"sick, twisted, creepy, perverted weirdo\" during his Fox show on Friday. \nKimmel said such animosity is \"harmful to our country.\" He also said President Donald Trump's wife had enough to worry about \"without being used as a prop to increase TV ratings.\" \nOn ABC's \"Jimmy Kimmel Live\" on April 2, Kimmel prodded the first lady's reading of a children's book at the White House Easter egg hunt. He mocked the accent of the first lady, who was born in Slovenia. \n\"Dees and dat,\" Kimmel repeated, with a laugh. \nHannity, cable television's most fervent supporter of the Republican president, took exception, and he and Kimmel exchanged barbs through the week. \nHannity's initial attack on Kimmel, calling him an \"ass clown,\" was enthusiastically countered by Kimmel, who said Hannity was the \"whole ass circus.\" \n\"Game on,\" Hannity said on Friday. \nHe rolled a series of Kimmel clips, mostly from the comedian's days as a co-host of Comedy Central's \"The Man Show,\" that featured segments showing Kimmel with an exaggerated fake erection, asking women to find something hidden in his pants and going up to random women in the street asking if they wanted to have sex with him. \nKimmel thanked Hannity for the trip down memory lane but said the idea that Hannity would call anyone a pervert while he was \"slobbering over\" Donald Trump is, \"to quote a fella you love very much, 'sad.'\" Trump boasted on a 2005 \"Access Hollywood\" tape about fame enabling him to grope and try to have sex with women, and he later apologized. \nKimmel, in his Twitter message, said he hopes Hannity will \"continue his newly-found advocacy for women, immigrants and First Ladies.\" \nHannity said he'd address Kimmel's statement on his Monday show. Copyright 2018 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed. AP National News Video More>> Facebook: Most users may have had public data 'scraped' \nFacebook's acknowledgement that nearly all of its 2.2 billion members have probably had their public data scraped by \"malicious actors\" is the latest example of the social media giant's failure to protect users' data \nFacebook's acknowledgement that nearly all of its 2.2 billion members have probably had their public data scraped by \"malicious actors\" is the latest example of the social media giant's failure to protect users' data Trump says he didn't know about payment to Stormy Daniels \nPresident Donald Trump says he didn't know about the $130,000 payment his personal attorney made to Stormy Daniels \nPresident Donald Trump says he didn't know about the $130,000 payment his personal attorney made to Stormy Daniels Dylan, Kesha change pronouns in songs to honor LGBTQ couples \nBob Dylan, Kesha and St. Vincent have reimagined popular love songs to honor the LGBTQ community, and the singers are doing it by switching pronouns \nBob Dylan, Kesha and St. Vincent have reimagined popular love songs to honor the LGBTQ community, and the singers are doing it by switching pronouns",
+      "highlightText": "",
+      "highlightTitle": "",
+      "language": "english",
+      "external_links": [],
+      "entities": {
+        "persons": [
+          {
+            "name": "melania trump",
+            "sentiment": "negative"
+          },
+          {
+            "name": "kimmel",
+            "sentiment": "negative"
+          },
+          {
+            "name": "jimmy kimmel",
+            "sentiment": "none"
+          },
+          {
+            "name": "donald trump",
+            "sentiment": "none"
+          },
+          {
+            "name": "mel",
+            "sentiment": "none"
+          },
+          {
+            "name": "chris pizzello/invision/ap",
+            "sentiment": "none"
+          },
+          {
+            "name": "sean hannity",
+            "sentiment": "none"
+          },
+          {
+            "name": "hannity",
+            "sentiment": "none"
+          }
+        ],
+        "organizations": [
+          {
+            "name": "abc",
+            "sentiment": "none"
+          },
+          {
+            "name": "fox news",
+            "sentiment": "none"
+          },
+          {
+            "name": "scleroderma foundation benefit",
+            "sentiment": "none"
+          },
+          {
+            "name": "ap",
+            "sentiment": "none"
+          }
+        ],
+        "locations": [
+          {
+            "name": "beverly hills",
+            "sentiment": "none"
+          },
+          {
+            "name": "new york",
+            "sentiment": "none"
+          },
+          {
+            "name": "calif",
+            "sentiment": "none"
+          },
+          {
+            "name": "beverly wilshire",
+            "sentiment": "none"
+          },
+          {
+            "name": "white house",
+            "sentiment": "none"
+          }
+        ]
+      },
+      "rating": null,
+      "crawled": "2018-04-09T00:18:08.009+03:00"
     }
   ],
-  "totalResults": 68,
+  "totalResults": 69,
   "moreResultsAvailable": 0,
-  "next": "/filterWebContent?token=42e28899-ec4a-4758-bf49-735c1eb6b793&format=json&ts=1523217831022&q=language%3Aenglish+domain_rank%3A%3E99000+%22Donald+Trump%22&sort=crawled",
-  "requestsLeft": 758
+  "next": "/filterWebContent?token=42e28899-ec4a-4758-bf49-735c1eb6b793&format=json&ts=1523222288009&q=language%3Aenglish+domain_rank%3A%3E99000+%22Donald+Trump%22&sort=crawled",
+  "requestsLeft": 755
 }
